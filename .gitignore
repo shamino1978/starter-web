@@ -1,3 +1,5 @@
 myfile.ext
 *.ext
 my-folder/
+*.log
+log/
