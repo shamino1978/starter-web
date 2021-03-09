@@ -3,3 +3,4 @@ myfile.ext
 my-folder/
 *.log
 log/
+*.orig
