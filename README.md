@@ -22,4 +22,4 @@ pleae eforok
 
 ### Copyright
 
-SSSSS
+SSSSS  all rights reserved
